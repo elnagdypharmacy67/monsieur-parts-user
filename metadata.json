@@ -1,0 +1,7 @@
+{
+  "name": "Monsieur parts shop view ",
+  "description": "A shopping website that converts CSV/Excel product lists into an interactive e-commerce interface with search, filtering, and cart functionality.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
